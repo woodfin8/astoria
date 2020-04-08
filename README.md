@@ -7,3 +7,5 @@ To run this program, you will need an api key which can be [found here](https://
 Save the api key as "key" in a seperate config.py file
 
 Running FREDapi.ipynb will grab the desired indicators combine them with the indicator's info, create a 'change' column and save the data to a csv in the 'data' folder. 
+
+Charts of indicators and regressions vs SPX are in the images folder. 
